@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/simple-app/static/css/main.de645cfd.css",
-    "main.js": "/simple-app/static/js/main.4f63201d.js",
-    "static/media/screen.mp4": "/simple-app/static/media/screen.6832823eb135191a8aa7.mp4",
-    "static/media/screen.webm": "/simple-app/static/media/screen.24c2b438bb4455388492.webm",
-    "static/media/voice.m4a": "/simple-app/static/media/voice.a458a5cdcfc95e3eb70d.m4a",
-    "static/media/voice.mp3": "/simple-app/static/media/voice.074c03f06bda5dc6997b.mp3",
-    "index.html": "/simple-app/index.html",
-    "main.de645cfd.css.map": "/simple-app/static/css/main.de645cfd.css.map",
-    "main.4f63201d.js.map": "/simple-app/static/js/main.4f63201d.js.map"
+    "main.css": "/static/css/main.0012f355.css",
+    "main.js": "/static/js/main.bdf950c7.js",
+    "static/media/screen.mp4": "/static/media/screen.6832823eb135191a8aa7.mp4",
+    "static/media/screen.webm": "/static/media/screen.24c2b438bb4455388492.webm",
+    "static/media/voice.m4a": "/static/media/voice.a458a5cdcfc95e3eb70d.m4a",
+    "static/media/voice.mp3": "/static/media/voice.074c03f06bda5dc6997b.mp3",
+    "index.html": "/index.html",
+    "main.0012f355.css.map": "/static/css/main.0012f355.css.map",
+    "main.bdf950c7.js.map": "/static/js/main.bdf950c7.js.map"
   },
   "entrypoints": [
-    "static/css/main.de645cfd.css",
-    "static/js/main.4f63201d.js"
+    "static/css/main.0012f355.css",
+    "static/js/main.bdf950c7.js"
   ]
 }
