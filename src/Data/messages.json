@@ -1,0 +1,610 @@
+[
+  {
+    "id": 60,
+    "user": {
+      "id": 1,
+      "first_name": "حسام عبد",
+      "last_name": "",
+      "avatar": "https://avatars.hsoubcdn.com/2686abb58ac37c7d5a8bdc7fdfbbbdfe?s=128"
+    },
+    "created_at": "2020-03-11T21:01:20.844+00:00",
+    "type": "text",
+    "body": "مرحبا بك يا فريق حسوب الرائع, اليوم لدى أخبار سارة لكم!"
+  },
+  {
+    "id": 61,
+    "user": {
+      "id": 1,
+      "first_name": "حسام عبد",
+      "last_name": "",
+      "avatar": "https://avatars.hsoubcdn.com/2686abb58ac37c7d5a8bdc7fdfbbbdfe?s=128"
+    },
+    "created_at": "2020-03-11T21:01:30.844+00:00",
+    "type": "text",
+    "body": "قمنا ببيع مليون كمامة فى تركيا بعد أزمة كورونا الجديدة"
+  },
+  {
+    "id": 62,
+    "user": {
+      "id": 1,
+      "first_name": "حسام عبد",
+      "last_name": "",
+      "avatar": "https://avatars.hsoubcdn.com/2686abb58ac37c7d5a8bdc7fdfbbbdfe?s=128"
+    },
+    "created_at": "2020-03-11T21:01:33.844+00:00",
+    "type": "text",
+    "body": "ما شاء الله هذه أخبار مفرحة جدا"
+  },
+  {
+    "id": 63,
+    "user": {
+      "id": 1,
+      "first_name": "حسام عبد",
+      "last_name": "",
+      "avatar": "https://avatars.hsoubcdn.com/2686abb58ac37c7d5a8bdc7fdfbbbdfe?s=128"
+    },
+    "created_at": "2020-03-11T21:01:34.844+00:00",
+    "type": "text",
+    "body": "أتمنى ان نبيع دائما هذا العدد"
+  },
+  {
+    "id": 64,
+    "user": {
+      "id": 2,
+      "first_name": "باسل الاحمد",
+      "last_name": "",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfiOOf0HAkbuvkFwXK67S43LkfkiJz6i-lNeq_eGMv2GFYESKh"
+    },
+    "created_at": "2020-03-11T21:01:40.844+00:00",
+    "type": "text",
+    "body": "نعم لكن بدون مصايب مثل كورونا ههه"
+  },
+  {
+    "id": 65,
+    "user": {
+      "id": 2,
+      "first_name": "باسل الاحمد",
+      "last_name": "",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfiOOf0HAkbuvkFwXK67S43LkfkiJz6i-lNeq_eGMv2GFYESKh"
+    },
+    "created_at": "2020-04-19T21:01:10.844+00:00",
+    "type": "text",
+    "body": "هل يوجد اخبار جديدة بخصوص تحويل العمل عن بعد؟"
+  },
+  {
+    "id": 66,
+    "user": {
+      "id": 2,
+      "first_name": "باسل الاحمد",
+      "last_name": "",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfiOOf0HAkbuvkFwXK67S43LkfkiJz6i-lNeq_eGMv2GFYESKh"
+    },
+    "created_at": "2020-04-19T21:01:15.844+00:00",
+    "type": "text",
+    "body": "سمعت ان معظم الشركات تقوم بالتحويل العمل ريموت"
+  },
+  {
+    "id": 67,
+    "user": {
+      "id": 2,
+      "first_name": "باسل الاحمد",
+      "last_name": "",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfiOOf0HAkbuvkFwXK67S43LkfkiJz6i-lNeq_eGMv2GFYESKh"
+    },
+    "created_at": "2020-04-19T21:01:20.844+00:00",
+    "type": "text",
+    "body": "بصراحة شئ جميل العمل من البيت"
+  },
+  {
+    "id": 68,
+    "user": {
+      "id": 2,
+      "first_name": "باسل الاحمد",
+      "last_name": "",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfiOOf0HAkbuvkFwXK67S43LkfkiJz6i-lNeq_eGMv2GFYESKh"
+    },
+    "created_at": "2020-04-19T21:01:25.844+00:00",
+    "type": "text",
+    "body": "تخيل انك فى البيت و تقوم بالعمل"
+  },
+  {
+    "id": 69,
+    "user": {
+      "id": 3,
+      "first_name": "محمد العمار",
+      "last_name": "",
+      "avatar": "https://avatars.hsoubcdn.com/51359d8d485bb3d0dcb52aa56013276c?s=128"
+    },
+    "created_at": "2020-04-19T21:01:28.844+00:00",
+    "type": "text",
+    "body": "و بالنسبالة للاولاد ماذا ستفعل حيالهم"
+  },
+  {
+    "id": 70,
+    "user": {
+      "id": 2,
+      "first_name": "باسل الاحمد",
+      "last_name": "",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfiOOf0HAkbuvkFwXK67S43LkfkiJz6i-lNeq_eGMv2GFYESKh"
+    },
+    "created_at": "2020-04-19T21:01:30.844+00:00",
+    "type": "text",
+    "body": "سأقوم بعمل مكتب مغلق داخل البيت"
+  },
+  {
+    "id": 71,
+    "user": {
+      "id": 3,
+      "first_name": "محمد العمار",
+      "last_name": "",
+      "avatar": "https://avatars.hsoubcdn.com/51359d8d485bb3d0dcb52aa56013276c?s=128"
+    },
+    "created_at": "2020-03-05T09:45:35.825Z",
+    "type": "text",
+    "body": "مرحبا شباب و الله مرة وحشنى كتيير"
+  },
+  {
+    "id": "119a0ecd-59b6-4f9b-a058-548846f60423",
+    "body": "👍",
+    "type": "emoji",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "f4f3ac44-3b00-4a1b-8ecb-4c61c332d5ee",
+      "first_name": "سداتي",
+      "last_name": "مسايتي",
+      "avatar": "https://avatars.hsoubcdn.com/420ad3ee1636658ce32bc6f2a921fb63"
+    },
+    "created_at": "2020-08-28T18:13:33.000000Z",
+    "updated_at": "2020-08-28T18:13:33.000000Z"
+  },
+  {
+    "id": "0c709405-b3e8-4ffb-8e8d-3ac6a2384f8c",
+    "body": "😍",
+    "type": "emoji",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "561473f6-e26e-4a93-b744-2eb543c8ae26",
+      "first_name": "عبدالمهيمن",
+      "last_name": "الآغا",
+      "avatar": "https://avatars.hsoubcdn.com/5ee0bcd3c1d31c830117d9fa4ff1caa2"
+    },
+    "created_at": "2020-08-28T18:13:02.000000Z",
+    "updated_at": "2020-08-28T18:13:02.000000Z"
+  },
+  {
+    "id": "b15f3eef-c219-49ba-a8e7-55163b88fb14",
+    "body": "أستأذنك الآن",
+    "type": "text",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "f4f3ac44-3b00-4a1b-8ecb-4c61c332d5ee",
+      "first_name": "سداتي",
+      "last_name": "مسايتي",
+      "avatar": "https://avatars.hsoubcdn.com/420ad3ee1636658ce32bc6f2a921fb63"
+    },
+    "created_at": "2020-08-21T19:24:50.000000Z",
+    "updated_at": "2020-08-21T19:24:50.000000Z"
+  },
+  {
+    "id": "2bc43808-7bcf-4593-bf6c-4b700aa2ea4c",
+    "body": "بوركتم 😍",
+    "type": "text",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "f4f3ac44-3b00-4a1b-8ecb-4c61c332d5ee",
+      "first_name": "سداتي",
+      "last_name": "مسايتي",
+      "avatar": "https://avatars.hsoubcdn.com/420ad3ee1636658ce32bc6f2a921fb63"
+    },
+    "created_at": "2020-08-21T19:24:12.000000Z",
+    "updated_at": "2020-08-21T19:24:12.000000Z"
+  },
+  {
+    "id": "984e73bc-bfa7-4f66-8134-0754d127435f",
+    "body": "يا اهلا وسهلا. تنور 😎",
+    "type": "text",
+    "reply_to_message_id": "a5578667-f353-4a5c-a7b5-da14709bcc5e",
+    "reply_to_message_data": {
+      "body": "ان شاء الله قريبا نزوركم",
+      "type": "text",
+      "date": "2020-08-21T19:21:52.000000Z",
+      "user": {
+        "id": "68d43297-6392-425c-b5f9-781098e49b45",
+        "first_name": "سداتي",
+        "last_name": "مسايتي",
+        "avatar": "https://avatars.hsoubcdn.com/420ad3ee1636658ce32bc6f2a921fb63"
+      }
+    },
+    "user": {
+      "id": "561473f6-e26e-4a93-b744-2eb543c8ae26",
+      "first_name": "عبدالمهيمن",
+      "last_name": "الآغا",
+      "avatar": "https://avatars.hsoubcdn.com/5ee0bcd3c1d31c830117d9fa4ff1caa2"
+    },
+    "created_at": "2020-08-21T19:23:22.000000Z",
+    "updated_at": "2020-08-21T19:23:33.000000Z"
+  },
+  {
+    "id": "cd8c16c5-d4f1-4f47-9cb7-b6b17f06d7b4",
+    "body": "15980377657034399575856242204614.jpg|3092453|https://images.unsplash.com/photo-1530103043960-ef38714abb15?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80|b0d5aee4-b1f6-4e95-9946-33a307d50693",
+    "type": "image/jpeg",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "f4f3ac44-3b00-4a1b-8ecb-4c61c332d5ee",
+      "first_name": "سداتي",
+      "last_name": "مسايتي",
+      "avatar": "https://avatars.hsoubcdn.com/420ad3ee1636658ce32bc6f2a921fb63"
+    },
+    "created_at": "2020-08-21T19:23:02.000000Z",
+    "updated_at": "2020-08-21T19:23:06.000000Z"
+  },
+  {
+    "id": "a5578667-f353-4a5c-a7b5-da14709bcc5e",
+    "body": "ان شاء الله قريبا نزوركم",
+    "type": "text",
+    "reply_to_message_id": "1462cd11-c043-4eec-962d-298298bbf28c",
+    "reply_to_message_data": {
+      "body": "uk-travel.jpg|110602|https://images.unsplash.com/photo-1530103043960-ef38714abb15?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80|50f3aa6b-d4e5-4f6b-87a9-e67fa4eae92e",
+      "type": "image/jpeg",
+      "data": "2020-08-21T19:20:18.000000Z",
+      "user": {
+        "id": "561473f6-e26e-4a93-b744-2eb543c8ae26",
+        "first_name": "عبدالمهيمن",
+        "last_name": "الآغا",
+        "avatar": "https://avatars.hsoubcdn.com/5ee0bcd3c1d31c830117d9fa4ff1caa2"
+      }
+    },
+    "user": {
+      "id": "f4f3ac44-3b00-4a1b-8ecb-4c61c332d5ee",
+      "first_name": "سداتي",
+      "last_name": "مسايتي",
+      "avatar": "https://avatars.hsoubcdn.com/420ad3ee1636658ce32bc6f2a921fb63"
+    },
+    "created_at": "2020-08-21T19:21:52.000000Z",
+    "updated_at": "2020-08-21T19:21:52.000000Z"
+  },
+  {
+    "id": "1462cd11-c043-4eec-962d-298298bbf28c",
+    "body": "uk-travel.jpg|110602|https://images.unsplash.com/photo-1530103043960-ef38714abb15?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80|50f3aa6b-d4e5-4f6b-87a9-e67fa4eae92e",
+    "type": "image/jpeg",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "561473f6-e26e-4a93-b744-2eb543c8ae26",
+      "first_name": "عبدالمهيمن",
+      "last_name": "الآغا",
+      "avatar": "https://avatars.hsoubcdn.com/5ee0bcd3c1d31c830117d9fa4ff1caa2"
+    },
+    "created_at": "2020-08-21T19:20:18.000000Z",
+    "updated_at": "2020-08-21T19:20:19.000000Z"
+  },
+  {
+    "id": "5a582bbd-6056-458b-b990-5d65a9d278cd",
+    "body": "😁",
+    "type": "emoji",
+    "reply_to_message_id": "f2a19e0a-9c11-477c-9332-a36fc8cda7b8",
+    "reply_to_message_data": {
+      "body": "شيء يفتح النفس",
+      "type": "text",
+      "date": "2020-08-21T19:19:36.000000Z",
+      "user": {
+        "id": "561473f6-e26e-4a93-b744-2eb543c8ae26",
+        "first_name": "عبدالمهيمن",
+        "last_name": "الآغا",
+        "avatar": "https://avatars.hsoubcdn.com/5ee0bcd3c1d31c830117d9fa4ff1caa2"
+      }
+    },
+    "user": {
+      "id": "f4f3ac44-3b00-4a1b-8ecb-4c61c332d5ee",
+      "first_name": "سداتي",
+      "last_name": "مسايتي",
+      "avatar": "https://avatars.hsoubcdn.com/420ad3ee1636658ce32bc6f2a921fb63"
+    },
+    "created_at": "2020-08-21T19:20:00.000000Z",
+    "updated_at": "2020-08-21T19:20:00.000000Z"
+  },
+  {
+    "id": "f629c4df-2d8a-4832-bb21-b9b1b75884e3",
+    "body": "This is a link\nhttps://ana.hsoub.com/dashboard/4b9a73b2-76a3-4be9-80db-01ee6fcaf841",
+    "type": "text",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "f4f3ac44-3b00-4a1b-8ecb-4c61c332d5ee",
+      "first_name": "سداتي",
+      "last_name": "مسايتي",
+      "avatar": "https://avatars.hsoubcdn.com/420ad3ee1636658ce32bc6f2a921fb63"
+    },
+    "created_at": "2020-08-21T19:19:38.000000Z",
+    "updated_at": "2020-08-21T19:19:38.000000Z"
+  },
+  {
+    "id": "f2a19e0a-9c11-477c-9332-a36fc8cda7b8",
+    "body": "شيء يفتح النفس",
+    "type": "text",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "561473f6-e26e-4a93-b744-2eb543c8ae26",
+      "first_name": "عبدالمهيمن",
+      "last_name": "الآغا",
+      "avatar": "https://avatars.hsoubcdn.com/5ee0bcd3c1d31c830117d9fa4ff1caa2"
+    },
+    "created_at": "2020-08-21T19:19:36.000000Z",
+    "updated_at": "2020-08-21T19:19:36.000000Z"
+  },
+  {
+    "id": "811e0042-898e-429f-9e0a-3568f5dc254a",
+    "body": "عظيم جدا",
+    "type": "text",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "561473f6-e26e-4a93-b744-2eb543c8ae26",
+      "first_name": "عبدالمهيمن",
+      "last_name": "الآغا",
+      "avatar": "https://avatars.hsoubcdn.com/5ee0bcd3c1d31c830117d9fa4ff1caa2"
+    },
+    "created_at": "2020-08-21T19:19:18.000000Z",
+    "updated_at": "2020-08-21T19:19:18.000000Z"
+  },
+  {
+    "id": "e3472ac1-dab1-492b-b62d-9d8c8d1accad",
+    "body": "😍",
+    "type": "emoji",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "561473f6-e26e-4a93-b744-2eb543c8ae26",
+      "first_name": "عبدالمهيمن",
+      "last_name": "الآغا",
+      "avatar": "https://avatars.hsoubcdn.com/5ee0bcd3c1d31c830117d9fa4ff1caa2"
+    },
+    "created_at": "2020-08-21T19:19:11.000000Z",
+    "updated_at": "2020-08-21T19:19:11.000000Z"
+  },
+  {
+    "id": "d58074f7-7b66-4164-b081-e42302d47a76",
+    "body": "Things looks stable",
+    "type": "text",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "f4f3ac44-3b00-4a1b-8ecb-4c61c332d5ee",
+      "first_name": "سداتي",
+      "last_name": "مسايتي",
+      "avatar": "https://avatars.hsoubcdn.com/420ad3ee1636658ce32bc6f2a921fb63"
+    },
+    "created_at": "2020-08-21T19:18:39.000000Z",
+    "updated_at": "2020-08-21T19:18:39.000000Z"
+  },
+  {
+    "id": "03abd282-68c3-49c2-92aa-bd66e80d1058",
+    "body": "😜😎",
+    "type": "emoji",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "f4f3ac44-3b00-4a1b-8ecb-4c61c332d5ee",
+      "first_name": "سداتي",
+      "last_name": "مسايتي",
+      "avatar": "https://avatars.hsoubcdn.com/420ad3ee1636658ce32bc6f2a921fb63"
+    },
+    "created_at": "2020-08-21T19:18:14.000000Z",
+    "updated_at": "2020-08-21T19:18:14.000000Z"
+  },
+  {
+    "id": "76663a80-ef72-4cf8-bf5c-9b26e3fe2b01",
+    "body": "ننفذها لاحقا، الله يعطيك العافية. اتعبتك اليوم",
+    "type": "text",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "561473f6-e26e-4a93-b744-2eb543c8ae26",
+      "first_name": "عبدالمهيمن",
+      "last_name": "الآغا",
+      "avatar": "https://avatars.hsoubcdn.com/5ee0bcd3c1d31c830117d9fa4ff1caa2"
+    },
+    "created_at": "2020-08-20T15:20:58.000000Z",
+    "updated_at": "2020-08-20T15:20:58.000000Z"
+  },
+  {
+    "id": "fc246398-2852-4992-8876-03d6dc217cc5",
+    "body": "1.jpg|527152|https://images.unsplash.com/photo-1530103043960-ef38714abb15?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80|aee706ae-6cfd-412c-8582-71965be33343",
+    "type": "image/jpeg",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "f4f3ac44-3b00-4a1b-8ecb-4c61c332d5ee",
+      "first_name": "سداتي",
+      "last_name": "مسايتي",
+      "avatar": "https://avatars.hsoubcdn.com/420ad3ee1636658ce32bc6f2a921fb63"
+    },
+    "created_at": "2020-08-20T15:04:05.000000Z",
+    "updated_at": "2020-08-20T15:04:06.000000Z"
+  },
+  {
+    "id": "3c5a56ad-c1d4-4d19-aeed-f2f969a056e8",
+    "body": "هل أنفذ هذه التعديلات فورا لعمل ريليس آخر",
+    "type": "text",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "f4f3ac44-3b00-4a1b-8ecb-4c61c332d5ee",
+      "first_name": "سداتي",
+      "last_name": "مسايتي",
+      "avatar": "https://avatars.hsoubcdn.com/420ad3ee1636658ce32bc6f2a921fb63"
+    },
+    "created_at": "2020-08-20T15:03:02.000000Z",
+    "updated_at": "2020-08-20T15:03:02.000000Z"
+  },
+  {
+    "id": "318bcfe4-c2d6-4e08-9344-08ff7c5b8358",
+    "body": "حسنا",
+    "type": "text",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "f4f3ac44-3b00-4a1b-8ecb-4c61c332d5ee",
+      "first_name": "سداتي",
+      "last_name": "مسايتي",
+      "avatar": "https://avatars.hsoubcdn.com/420ad3ee1636658ce32bc6f2a921fb63"
+    },
+    "created_at": "2020-08-20T14:59:33.000000Z",
+    "updated_at": "2020-08-20T14:59:33.000000Z"
+  },
+  {
+    "id": "9f8502bc-92f9-4bf3-8219-28770f89f01f",
+    "body": "نحتاج لجعل الروابط clickable",
+    "type": "text",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "561473f6-e26e-4a93-b744-2eb543c8ae26",
+      "first_name": "عبدالمهيمن",
+      "last_name": "الآغا",
+      "avatar": "https://avatars.hsoubcdn.com/5ee0bcd3c1d31c830117d9fa4ff1caa2"
+    },
+    "created_at": "2020-08-20T14:59:24.000000Z",
+    "updated_at": "2020-08-20T14:59:24.000000Z"
+  },
+  {
+    "id": "b7e3fdcc-acf5-4af2-987b-f0faae41237f",
+    "body": "https://www.dropbox.com/s/ulcwshfd8ewn62y/Screenshot%202020-08-20%20at%2015.47.06.png?dl=0",
+    "type": "text",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "561473f6-e26e-4a93-b744-2eb543c8ae26",
+      "first_name": "عبدالمهيمن",
+      "last_name": "الآغا",
+      "avatar": "https://avatars.hsoubcdn.com/5ee0bcd3c1d31c830117d9fa4ff1caa2"
+    },
+    "created_at": "2020-08-20T14:59:14.000000Z",
+    "updated_at": "2020-08-20T14:59:14.000000Z"
+  },
+  {
+    "id": "a30b326a-80e4-48d7-8539-a42587648921",
+    "body": "الصورة لم تظهر لدي",
+    "type": "text",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "561473f6-e26e-4a93-b744-2eb543c8ae26",
+      "first_name": "عبدالمهيمن",
+      "last_name": "الآغا",
+      "avatar": "https://avatars.hsoubcdn.com/5ee0bcd3c1d31c830117d9fa4ff1caa2"
+    },
+    "created_at": "2020-08-20T14:58:58.000000Z",
+    "updated_at": "2020-08-20T14:58:58.000000Z"
+  },
+  {
+    "id": "a738b6cb-6bb3-4191-bbde-b66ab4fe7e75",
+    "body": "صحيح\nلنعمل عليها بالريليس القادم",
+    "type": "text",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "561473f6-e26e-4a93-b744-2eb543c8ae26",
+      "first_name": "عبدالمهيمن",
+      "last_name": "الآغا",
+      "avatar": "https://avatars.hsoubcdn.com/5ee0bcd3c1d31c830117d9fa4ff1caa2"
+    },
+    "created_at": "2020-08-20T14:58:50.000000Z",
+    "updated_at": "2020-08-20T14:58:50.000000Z"
+  },
+  {
+    "id": "dafd3471-947e-48b3-ad4d-188f5d7f0cba",
+    "body": "يجب ان أجعل التواريخ live",
+    "type": "text",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "f4f3ac44-3b00-4a1b-8ecb-4c61c332d5ee",
+      "first_name": "سداتي",
+      "last_name": "مسايتي",
+      "avatar": "https://avatars.hsoubcdn.com/420ad3ee1636658ce32bc6f2a921fb63"
+    },
+    "created_at": "2020-08-20T14:57:48.000000Z",
+    "updated_at": "2020-08-20T14:57:48.000000Z"
+  },
+  {
+    "id": "3d39824d-8ada-4d02-9327-a184ea010ef3",
+    "body": "الامور مستقرة",
+    "type": "text",
+    "reply_to_message_id": "4ee80111-51ae-4c59-a682-bab2097af9e0",
+    "reply_to_message_data": {
+      "body": "كيف تعمل الأمور لديك؟",
+      "type": "text",
+      "date": "2020-08-20T14:56:32.000000Z",
+      "user": {
+        "id": "561473f6-e26e-4a93-b744-2eb543c8ae26",
+        "first_name": "عبدالمهيمن",
+        "last_name": "الآغا",
+        "avatar": "https://avatars.hsoubcdn.com/5ee0bcd3c1d31c830117d9fa4ff1caa2"
+      }
+    },
+    "user": {
+      "id": "f4f3ac44-3b00-4a1b-8ecb-4c61c332d5ee",
+      "first_name": "سداتي",
+      "last_name": "مسايتي",
+      "avatar": "https://avatars.hsoubcdn.com/420ad3ee1636658ce32bc6f2a921fb63"
+    },
+    "created_at": "2020-08-20T14:57:18.000000Z",
+    "updated_at": "2020-08-20T14:57:18.000000Z"
+  },
+  {
+    "id": "4c7f0368-b27b-41bc-922d-887bfd693357",
+    "body": "وهذه من ايفون 😁",
+    "type": "text",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "f4f3ac44-3b00-4a1b-8ecb-4c61c332d5ee",
+      "first_name": "سداتي",
+      "last_name": "مسايتي",
+      "avatar": "https://avatars.hsoubcdn.com/420ad3ee1636658ce32bc6f2a921fb63"
+    },
+    "created_at": "2020-08-20T14:56:55.000000Z",
+    "updated_at": "2020-08-20T14:56:55.000000Z"
+  },
+  {
+    "id": "719efe2d-b36b-4499-bb35-af79c6fbd7d8",
+    "body": "من اندرويد 😎",
+    "type": "text",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "f4f3ac44-3b00-4a1b-8ecb-4c61c332d5ee",
+      "first_name": "سداتي",
+      "last_name": "مسايتي",
+      "avatar": "https://avatars.hsoubcdn.com/420ad3ee1636658ce32bc6f2a921fb63"
+    },
+    "created_at": "2020-08-20T14:56:34.000000Z",
+    "updated_at": "2020-08-20T14:56:34.000000Z"
+  },
+  {
+    "id": "4ee80111-51ae-4c59-a682-bab2097af9e0",
+    "body": "كيف تعمل الأمور لديك؟",
+    "type": "text",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "561473f6-e26e-4a93-b744-2eb543c8ae26",
+      "first_name": "عبدالمهيمن",
+      "last_name": "الآغا",
+      "avatar": "https://avatars.hsoubcdn.com/5ee0bcd3c1d31c830117d9fa4ff1caa2"
+    },
+    "created_at": "2020-08-20T14:56:32.000000Z",
+    "updated_at": "2020-08-20T14:56:32.000000Z"
+  },
+  {
+    "id": "9a4bb579-f6d1-4494-b130-fb61c72a6fe5",
+    "body": "مرحبا بك",
+    "type": "text",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "f4f3ac44-3b00-4a1b-8ecb-4c61c332d5ee",
+      "first_name": "سداتي",
+      "last_name": "مسايتي",
+      "avatar": "https://avatars.hsoubcdn.com/420ad3ee1636658ce32bc6f2a921fb63"
+    },
+    "created_at": "2020-08-20T14:56:20.000000Z",
+    "updated_at": "2020-08-20T14:56:20.000000Z"
+  },
+  {
+    "id": "c59acd41-6e82-4bda-be09-e071eb5c72c5",
+    "body": "مرحبا",
+    "type": "text",
+    "reply_to_message_id": null,
+    "user": {
+      "id": "561473f6-e26e-4a93-b744-2eb543c8ae26",
+      "first_name": "عبدالمهيمن",
+      "last_name": "الآغا",
+      "avatar": "https://avatars.hsoubcdn.com/5ee0bcd3c1d31c830117d9fa4ff1caa2"
+    },
+    "created_at": "2020-08-20T14:56:11.000000Z",
+    "updated_at": "2020-08-20T14:56:11.000000Z"
+  }
+]
