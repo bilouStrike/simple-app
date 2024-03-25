@@ -196,6 +196,8 @@ function App() {
     }, 500);
   }
 
+  console.log(messages);
+
   async function updateMessageHandler(message) {
     setMessages((messages) => {
       return ChatController.messages.updateMessage(
